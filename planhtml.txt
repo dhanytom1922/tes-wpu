@@ -4,3 +4,5 @@
 - [ ]  5.Information Architecture ‌
 - [ ]  6.Accessibility ‌
 - [ ]  7.SEO
+
+pelajari html5
