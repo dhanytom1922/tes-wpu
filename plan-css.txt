@@ -1,4 +1,7 @@
 - [ ]  4.Responsive Design ‌
 - [ ]  5.Modern CSS 
+CSS 6
 flexbox
+CSS 6
 - [ ]  6.CSS Architecture
+Laravel
